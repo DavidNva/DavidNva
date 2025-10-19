@@ -1,7 +1,6 @@
 <h1 align="center"><b>Hola, soy David Nava 👋</b></h1>
 
-<img align="right" width="300px" alt="Coding" src="![pikachudev](https://github.com/user-attachments/assets/3e85b7af-e56f-468f-a7af-1c5e994828e3)
-" />
+<img align="right" width="300px" alt="Coding" src="![pikachudev](https://github.com/user-attachments/assets/83339b1a-2258-40ec-8dbb-d789c1164884)" />
 
 👨🏻‍💻 Sobre mí
 
@@ -15,7 +14,6 @@ Soy **Desarrollador de Software Full Stack .NET** trabajando como desarrollador 
 - Fuera del código,🚶🏻‍♂️  me encanta salir a caminar, ⚽ jugar futbol, 🎵 escuchar música y ver series de comedia o 🚀 ciencia ficción
 - 📫 Contacto: david.nava.garcia4@gmail.com
 
-<br><br>
 
 ## Habilidades Principales 💻
 
@@ -24,21 +22,24 @@ Soy **Desarrollador de Software Full Stack .NET** trabajando como desarrollador 
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sql&logoColor=white">
+   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </span>
 
 <h4>Frameworks & Tecnologías</h4>
 <span>
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
   <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white">
-  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/SAP%20Business%20One%20SDK%20DI%20API-0FAADC?style=for-the-badge&logo=sap&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/Entity%20Framework-6C3483?style=for-the-badge&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/LINQ-9B59B6?style=for-the-badge&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/Dapper-E67E22?style=for-the-badge&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/REST%20APIs-27AE60?style=for-the-badge&logo=swagger&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </span>
 
@@ -46,7 +47,7 @@ Soy **Desarrollador de Software Full Stack .NET** trabajando como desarrollador 
 <span>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <img src="https://img.shields.io/badge/IIS%20Server-0078D4?style=for-the-badge&logo=microsoft-iis&logoColor=white">
 </span>
 
 <h4>Herramientas & Otros</h4>
@@ -56,6 +57,17 @@ Soy **Desarrollador de Software Full Stack .NET** trabajando como desarrollador 
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src= "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+</span>
+
+<br>
+<h4>Actualmente Aprendiendo 🌱</h4>
+<span>
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </span>
 
 <br>
