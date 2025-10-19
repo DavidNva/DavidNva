@@ -1,21 +1,21 @@
-<h1 align="center"><b>Hola, soy David Nava 👋</b></h1>
+<h1 align="center"><b>Hi, I'm David Nava 👋</b></h1>
 
-👨🏻‍💻 Sobre mí
+👨🏻‍💻&nbsp;***About me***
 
-Soy **Desarrollador de Software Full Stack .NET** trabajando como desarrollador en el sector empresarial, donde expando mis conocimientos tanto en desarrollo backend como frontend. Me encanta aprender y construir algo nuevo, productivo, innovador y creativo.
+I'm a **Full Stack Software Developer .NET** working as a developer in the enterprise sector, where I expand my knowledge in both backend and frontend development. I love learning and building something new, productive, innovative and creative.
 
-- 🌱 Actualmente estoy aprendiendo:
+- 🌱 I'm currently learning:
   - Tailwind CSS
   - React
   - Azure
-- ⚡ Lo que me define: Problem solver | Team player | Aprendizaje continuo
-- Fuera del código,🚶🏻‍♂️  me gusta salir a caminar, ⚽ jugar futbol, 🎵 escuchar música y ver series de comedia o 🚀 ciencia ficción
-- 📫 Contacto: david.nava.garcia4@gmail.com
+- ⚡ What defines me: Problem solver | Team player | Continuous learning
+- Outside of code, 🚶🏻‍♂️ I love going for walks, ⚽ playing football, 🎵 listening to music and watching comedy or 🚀 science fiction series
+- 📫 Contact: david.nava.garcia4@gmail.com
 
 
-## Habilidades Principales 💻
+## Main Skills 💻
 
-<h4>Lenguajes</h4>
+<h4>Languages</h4>
 <span> 
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
@@ -28,7 +28,7 @@ Soy **Desarrollador de Software Full Stack .NET** trabajando como desarrollador 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </span>
 
-<h4>Frameworks & Tecnologías</h4>
+<h4>Frameworks & Technologies</h4>
 <span>
   <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white">
   <img src="https://img.shields.io/badge/SAP%20Business%20One%20SDK%20DI%20API-0FAADC?style=for-the-badge&logo=sap&logoColor=white">
@@ -41,14 +41,14 @@ Soy **Desarrollador de Software Full Stack .NET** trabajando como desarrollador 
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </span>
 
-<h4>Bases de Datos & Cloud</h4>
+<h4>Databases & Cloud</h4>
 <span>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/IIS%20Server-0078D4?style=for-the-badge&logo=microsoft-iis&logoColor=white">
 </span>
 
-<h4>Herramientas & Otros</h4>
+<h4>Tools & Others</h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -60,7 +60,7 @@ Soy **Desarrollador de Software Full Stack .NET** trabajando como desarrollador 
 </span>
 
 <br>
-<h4>Actualmente Aprendiendo 🌱</h4>
+<h4>Currently Learning 🌱</h4>
 <span>
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=.net&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -83,18 +83,63 @@ Soy **Desarrollador de Software Full Stack .NET** trabajando como desarrollador 
 
 <br>
 
-## 🌐 Conéctate Conmigo
+## 📂 Featured Projects
+
+<table align="center">
+<tr border="none">
+  <td width="50%" align="center">
+    <a href="https://github.com/DavidNva/SIGUP" target="_blank" style="text-decoration: none; cursor: pointer;">
+      <div style="border: 2px solid #0078D4; border-radius: 10px; padding: 20px; transition: all 0.3s ease;">
+        <p align="center">
+          <b>🏥 Laboratory Management System</b>
+        </p>
+        <p align="center">
+          Full-stack system for managing laboratories, equipment and access
+        </p>
+        <p align="center">
+          <b>Stack:</b> ASP.NET MVC | SQL Server | JavaScript | jQuery | Bootstrap 5
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/View%20Repository-100000?style=for-the-badge&logo=github&logoColor=white">
+        </p>
+      </div>
+    </a>
+  </td>
+  <td width="50%" align="center">
+    <a href="https://github.com/DavidNva/BibliotecaWeb" target="_blank" style="text-decoration: none; cursor: pointer;">
+      <div style="border: 2px solid #0078D4; border-radius: 10px; padding: 20px; transition: all 0.3s ease;">
+        <p align="center">
+          <b>📚 Library Management System</b>
+        </p>
+        <p align="center">
+          Complete web application for public library with loan management module
+        </p>
+        <p align="center">
+          <b>Stack:</b> ASP.NET MVC | SQL Server | JavaScript | Bootstrap 5
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/View%20Repository-100000?style=for-the-badge&logo=github&logoColor=white">
+        </p>
+      </div>
+    </a>
+  </td>
+</tr>
+</table>
+
+<br>
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/david-nava-garcia" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:david.nava.garcia4@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://davidnavadev.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://github.com/DavidNva" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/david-nava-garcia" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:david.nava.garcia4@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://davidnavadev.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/DavidNva" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 
 <br>
 
 <div align="center">
-  <p><b>💡 Abierto a nuevas oportunidades | 🚀 Disponible para proyectos | 🤝 Colaboraciones</b></p>
+  <p><b>💡 Open to new opportunities | 🚀 Available for projects | 🤝 Collaborations</b></p>
 </div>
