@@ -88,6 +88,16 @@ Soy **Desarrollador de Software Full Stack .NET** trabajando como desarrollador 
   alt="Contribution Graph"  
 />
 
+<!-- Gráfico de tendencias mensual -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidnva&theme=blue_green" alt="Profile Details" />
+</div>
+
+<!-- Top languages por commits -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidnva&theme=blue_green" alt="Most Commit Language" />
+</div>
+
 <br>
 
 ## 🌐 Conéctate Conmigo
