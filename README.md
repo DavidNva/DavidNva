@@ -1,3 +1,5 @@
+
+
 <h1 align="center"><b>Hola, soy David Nava 👋</b></h1>
 
 👨🏻‍💻 Sobre mí
@@ -80,6 +82,11 @@ Soy **Desarrollador de Software Full Stack .NET** trabajando como desarrollador 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidNva&theme=react" alt="GitHub Streak" />
 </div>
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=davidnva&bg_color=0D1117&color=90CAF9&line=42A5F5&point=64B5F6&area_color=1E88E5&hide_border=true"  
+  alt="Contribution Graph"  
+/>
 
 <br>
 
