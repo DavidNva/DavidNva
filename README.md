@@ -4,7 +4,7 @@
 
 👨🏻‍💻 Sobre mí
 
-Soy **Desarrollador de Software Full Stack .NET** trabajando como desarrollador en el sector empresarial, donde expando mis conocimientos tanto en desarrollo backend como frontend. Me encanta aprender y construir algo nuevo, productivo, innovador y creativo.
+Soy **Desarrollador de Software Full Stack .NET** trabajando como desarrollador en el sector empresarial, donde expando mis conocimientos tanto en desarrollo backend como frontend. Me encanta aprender y construir algo nuevo.
 
 - 🌱 Actualmente estoy aprendiendo:
   - Tailwind CSS
