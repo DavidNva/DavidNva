@@ -13,7 +13,7 @@ Soy **Desarrollador de Software Full Stack .NET** trabajando como desarrollador 
 - ⚡ Lo que me define: Problem solver | Team player | Aprendizaje continuo
 - Fuera del código,🚶🏻‍♂️  me gusta salir a caminar, ⚽ jugar futbol, 🎵 escuchar música y ver series de comedia o 🚀 ciencia ficción
 - 📫 Contacto: david.nava.garcia4@gmail.com
-- Portafolio Web: davidnavadev.netlify.app
+- Portafolio Web: [davidnavadev.netlify.app](https://davidnavadev.netlify.app/)
 
 
 ## Habilidades Principales 💻
